@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This package you can use to put male/female names in your code",
   "main": "index.js",
+  "repository": "https://github.com/ViacheslavDobriy/Node_NPM_RandomNames_Package",
   "scripts": {
     "start": "node ./index.js"
   },
