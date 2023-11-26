@@ -1,0 +1,11 @@
+{
+  "name": "random_names",
+  "version": "1.0.0",
+  "description": "This package you can use to put male/female names in your code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Slava Dobrov",
+  "license": "ISC"
+}
